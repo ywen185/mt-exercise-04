@@ -1,0 +1,252 @@
+Using hypothesis file: output_bpe2000\bpe2000_beam1.hyps.test
+Number of examples: 50
+
+Sentence 1
+SRC: Several years ago here at TED, Peter Skillman introduced a design challenge
+REF: Een paar jaar geleden heeft Peter Skillman hier, bij TED,  een ontwerpwedstrijd laten zien.
+HYP: Z@@ e j@@ aar gele@@ den hier bij TE@@ D@@ , P@@ e@@ ter S@@ k@@ ill@@ man in@@ tro@@ duc@@ eer@@ de een ontwer@@ p uit@@ da@@ g@@ ing van ontwer@@ p@@ <unk>
+
+Sentence 2
+SRC: called the marshmallow challenge.
+REF: De marshmallow-challenge.
+HYP: De mar@@ sh@@ m@@ allo@@ w uit@@ da@@ g@@ ing@@ <unk>
+
+Sentence 3
+SRC: And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow.
+REF: Het idee is vrij simpel:  Groepjes van vier moeten een zo hoog mogelijk bouwwerk maken  met twintig stuks spaghetti,  een meter tape, een meter touw  en een marshmallow.
+HYP: H@@ et ide@@ e is v@@ rij een@@ vou@@ dig@@ : T@@ e@@ am@@ s van vi@@ er moe@@ ten de t@@ ste v@@ rij@@ e struc@@ tu@@ ur van 20 st@@ o@@ k@@ ken van de 20 st@@ o@@ k@@ ken van de me@@ est@@ e@@ n een y@@ ar@@ de t@@ ap@@ e@@ n een ze@@ er sn@@ aar@@ , ??@@ ??n van een mar@@ sh@@ m@@ allo@@ w@@ <unk>
+
+Sentence 4
+SRC: The marshmallow has to be on top.
+REF: De marshmallow moet er bovenop.
+HYP: De mar@@ sh@@ m@@ allo@@ w moe@@ t op de onder@@ hou@@ d@@ <unk>
+
+Sentence 5
+SRC: And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly.
+REF: En, hoewel het simpel klinkt, het blijkt nog best moeilijk,  want deze opdracht dwingt mensen  om heel snel samen te werken.
+HYP: H@@ oe@@ wel het he@@ el een@@ vou@@ dig@@ , het is eigen@@ lijk moeil@@ ijk om@@ dat het men@@ sen erg har@@ d is om@@ dat het men@@ sen he@@ el sn@@ el om he@@ el sn@@ el te ver@@ kle@@ ur@@ en@@ <unk>
+
+Sentence 6
+SRC: And so, I thought this was an interesting idea, and I incorporated it into a design workshop.
+REF: En omdat ik dit een interessant idee vond,  besloot ik het op te nemen in een design workshop.
+HYP: I@@ k da@@ cht dat d@@ it een interess@@ an@@ te ide@@ e@@ , e@@ n ik ver@@ werk@@ te het in een ontwer@@ p@@ <unk>
+
+Sentence 7
+SRC: And it was a huge success.
+REF: En het was een groot succes.
+HYP: H@@ et was een enor@@ me succ@@ es@@ <unk>
+
+Sentence 8
+SRC: And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50,
+REF: Sindsdien heb ik deze oefening gedaan  in ongeveer 70 design workshops over de hele wereld  met studenten, ontwerpers en architecten,  en zelfs met bazen van Fortune 50-bedrijven.
+HYP: En om@@ dat ik heb onge@@ ve@@ er 7@@ 0 ontwer@@ pen over 7@@ 0 ontwer@@ pen me@@ t studen@@ ten e@@ n ontwer@@ pers e@@ n ontwer@@ pers e@@ n arch@@ it@@ ec@@ ten e@@ n arch@@ it@@ ec@@ ten@@ , zelf@@ s de C@@ T@@ O@@ '@@ s van de F@@ or@@ t@@ un@@ e 5@@ 0@@ <unk>
+
+Sentence 9
+SRC: and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.
+REF: En deze oefening  geeft ons diepe inzichten  in hoe mensen samenwerken,  en ik wil een paar daarvan met jullie delen.
+HYP: E@@ r is ie@@ ts aan de@@ ze ex@@ er@@ cis@@ ie@@ ve di@@ ep min@@ der@@ en@@ s di@@ ep min@@ der@@ e@@ n over de aar@@ d van de samen@@ werk@@ ing e@@ n ik gr@@ aag een p@@ aar van h@@ e@@ n me@@ t j@@ ul@@ lie wil@@ l@@ e@@ n del@@ en@@ <unk>
+
+Sentence 10
+SRC: So, normally, most people begin by orienting themselves to the task.
+REF: Normaal gesproken is de eerste stap  dat mensen zich op de zaak voorbereiden.
+HYP: De mee@@ ste men@@ sen beg@@ inn@@ e@@ n me@@ t het or@@ i@@ ??n@@ , door h@@ e@@ n te or@@ i@@ ??n@@ <unk>
+
+Sentence 11
+SRC: They talk about it, they figure out what it's going to look like, they jockey for power.
+REF: Ze praten erover, stellen zich voor hoe het eruit gaat zien,  spelen machtsspelletjes.
+HYP: Z@@ e pr@@ at@@ e@@ n er@@ over na@@ den@@ ken ze wat er er@@ uit g@@ aat er uit zie@@ t@@ , ze ver@@ z@@ am@@ el@@ en@@ <unk>
+
+Sentence 12
+SRC: Then they spend some time planning, organizing,
+REF: Dan gaan ze plannen, organiseren.
+HYP: D@@ an sp@@ en@@ der@@ e@@ n ze een tij@@ d be@@ ste@@ ed@@ t organis@@ er@@ en@@ <unk>
+
+Sentence 13
+SRC: they sketch and they lay out spaghetti.
+REF: Ze schetsen en monteren spaghetti.
+HYP: Z@@ e sch@@ et@@ s e@@ n ze la@@ gen sp@@ ag@@ het@@ ti@@ st@@ <unk>
+
+Sentence 14
+SRC: They spend the majority of their time assembling the sticks into ever-growing structures.
+REF: Het grootste deel van de tijd bouwen ze  steeds grotere bouwwerken van de spaghetti.
+HYP: Z@@ e sp@@ en@@ der@@ he@@ id van h@@ un tij@@ d ge@@ ven van h@@ un tij@@ d door de st@@ o@@ k@@ ken in de al@@ tij@@ d gro@@ ei@@ en@@ de struc@@ tur@@ en@@ <unk>
+
+Sentence 15
+SRC: And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! --
+REF: En op het einde, wanneer de tijd bijna om is  pakt iemand de marshmallow  ze leggen hem er voorzichtig bovenop,  doen een stapje terug en... Tadaa!
+HYP: En to@@ e@@ n ze uit@@ ein@@ del@@ ijk r@@ un@@ t op de tij@@ d ne@@ em@@ t ie@@ m@@ and di@@ e de mar@@ sh@@ m@@ allo@@ w@@ , e@@ n ze het op de mar@@ sh@@ m@@ allo@@ w@@ , e@@ n ze het op e@@ n -@@ - ne@@ men@@ <unk>
+
+Sentence 16
+SRC: they admire their work.
+REF: Ze bewonderen hun werk.
+HYP: Z@@ e ver@@ g@@ aan h@@ un werk@@ <unk>
+
+Sentence 17
+SRC: But what really happens, most of the time, is that the "ta-da" turns into an "uh-oh," because the weight of the marshmallow causes the entire structure to buckle and to collapse.
+REF: Maar wat er echt gebeurt, meestal,  is dat de "tadaa" verandert in een "oh oh",  omdat het gewicht van de marshmallow het hele bouwwerk  laat bezwijken en instorten.
+HYP: M@@ aar wat er gebeur@@ t@@ , is het me@@ est@@ al dat de "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ " om@@ dat de ge@@ wi@@ cht van de mar@@ sh@@ m@@ allo@@ w ver@@ oor@@ za@@ ken de mar@@ sh@@ m@@ allo@@ w ver@@ oor@@ za@@ ken e@@ n de hel@@ e struc@@ tu@@ ur om te k@@ oo@@ p te k@@ oo@@ p te k@@ la@@ p@@ se@@ er@@ en@@ <unk>
+
+Sentence 18
+SRC: So there are a number of people who have a lot more "uh-oh" moments than others,
+REF: Bepaalde mensen  hebben meer van die "oh oh"-momenten dan anderen.
+HYP: E@@ r zijn d@@ us een aan@@ tal men@@ sen di@@ e ve@@ el me@@ er "@@ u@@ h@@ -@@ momen@@ ten dan ander@@ en@@ <unk>
+
+Sentence 19
+SRC: and among the worst are recent graduates of business school.
+REF: Wat van de ergste zijn pas afgestudeerden met een MBA.
+HYP: En onder de sle@@ cht@@ ste re@@ cen@@ te gra@@ du@@ at@@ e@@ n van de za@@ kel@@ ijk@@ e school@@ <unk>
+
+Sentence 20
+SRC: They lie, they cheat, they get distracted and they produce really lame structures.
+REF: Ze liegen, ze spelen vals, raken afgeleid,  en ze maken behoorlijk domme bouwwerken.
+HYP: Z@@ e hebb@@ e@@ n het k@@ aa@@ s@@ , ze krij@@ gen e@@ n ze di@@ str@@ ac@@ te@@ er@@ den e@@ n ze e@@ cht la@@ me struc@@ tur@@ en@@ <unk>
+
+Sentence 21
+SRC: And of course there are teams that have a lot more "ta-da" structures,
+REF: En daarnaast zijn er natuurlijk teams  die veel meer "tadaa"-bouwwerken maken.
+HYP: En natuur@@ lijk zijn er te@@ am@@ s di@@ e ve@@ el me@@ er "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ -@@ "@@ ta@@ -@@ da@@ '@@ s hebb@@ e@@ n er ve@@ el me@@ er "@@ ta@@ -@@ da@@ -@@ struc@@ tur@@ en@@ <unk>
+
+Sentence 22
+SRC: and among the best are recent graduates of kindergarten.
+REF: En bij de beste onder hen zijn pas afgestudeerde kleuters.
+HYP: T@@ ij@@ den@@ s de be@@ ste re@@ cen@@ te gra@@ du@@ id@@ el@@ ijk@@ e gra@@ du@@ aat@@ <unk>
+
+Sentence 23
+SRC: And it's pretty amazing.
+REF: Dat is wel indrukwekkend.
+HYP: H@@ et is v@@ rij ver@@ ba@@ z@@ ing@@ we@@ k@@ ken@@ d@@ <unk>
+
+Sentence 24
+SRC: As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.
+REF: En Peter vertelt ons, dat ze niet alleen  de hoogste bouwsels maken  het zijn ook nog eens de meest interessante.
+HYP: Z@@ o@@ als P@@ e@@ ter zeg@@ t on@@ s nie@@ t alle@@ e@@ n de t@@ i@@ ge struc@@ tur@@ e@@ n van de t@@ ste struc@@ tur@@ e@@ n van h@@ e@@ n alle@@ maa@@ l de interess@@ an@@ te struc@@ tur@@ e@@ n van h@@ e@@ n alle@@ maa@@ l te ma@@ ken@@ <unk>
+
+Sentence 25
+SRC: So the question you want to ask is: How come? Why? What is it about them?
+REF: Dus wat je je nu zult afvragen is:  Hoe kan dit? Waarom? Wat doen die kleuters?
+HYP: De vr@@ aag di@@ e je wil@@ t vra@@ gen is@@ : H@@ oe kom@@ e@@ n het over h@@ en@@ ?
+
+Sentence 26
+SRC: And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right?
+REF: Peters antwoord is:  "Geen van de kinderen verspilt tijd  de baas te zijn van de Spaghetti BV." Juist.
+HYP: En P@@ e@@ ter gr@@ aag zeg@@ gen dat nie@@ m@@ and van de kin@@ der@@ e@@ n di@@ e tij@@ d be@@ ste@@ den aan C@@ E@@ O van S@@ pa@@ g@@ he@@ t@@ ti@@ , In@@ c@@ <unk>
+
+Sentence 27
+SRC: They don't spend time jockeying for power.
+REF: Ze verspillen geen tijd met machtsspelletjes.
+HYP: Z@@ e be@@ ste@@ den nie@@ t aan het tij@@ d door door ma@@ cht te ma@@ ken@@ <unk>
+
+Sentence 28
+SRC: But there's another reason as well.
+REF: Maar er is nog een reden.
+HYP: M@@ aar er is een ander@@ e re@@ den waaro@@ m goe@@ d@@ <unk>
+
+Sentence 29
+SRC: And the reason is that business students are trained to find the single right plan, right?
+REF: En dat is het dat economen getraind zijn  om de enige juiste oplossing te vinden.
+HYP: De re@@ den is dat onder@@ wer@@ pen studen@@ ten tra@@ in@@ de studen@@ ten wor@@ den ge@@ tra@@ in@@ d om te vin@@ den@@ <unk>
+
+Sentence 30
+SRC: And then they execute on it.
+REF: En dan gaan ze die uitvoeren.
+HYP: Z@@ e kom@@ e@@ n er uit@@ vo@@ er@@ e@@ n ze er@@ op op@@ <unk>
+
+Sentence 31
+SRC: And then what happens is, when they put the marshmallow on the top, they run out of time and what happens?
+REF: Maar wat er dan gebeurt, wanneer ze de marshmallow bovenop leggen,  is dat ze geen tijd meer hebben. En dan?
+HYP: En wat er gebeur@@ t is@@ , als ze de mar@@ sh@@ m@@ allo@@ w op de onder@@ hou@@ d@@ , ze uit de tij@@ d e@@ n wat gebeur@@ t er gebeur@@ t@@ ?
+
+Sentence 32
+SRC: It's a crisis.
+REF: Het is een ramp.
+HYP: H@@ et is een cr@@ is@@ <unk>
+
+Sentence 33
+SRC: Sound familiar? Right.
+REF: Klinkt bekend, zeker?
+HYP: G@@ e@@ w@@ oe@@ de famil@@ ie@@ ? R@@ e@@ k@@ <unk>
+
+Sentence 34
+SRC: What kindergarteners do differently
+REF: Wat kleuters anders doen...
+HYP: W@@ at kin@@ der@@ g@@ ar@@ ten@@ s do@@ e@@ n ander@@ s do@@ e@@ n ander@@ s do@@ e@@ n er ander@@ s do@@ en@@ <unk>
+
+Sentence 35
+SRC: is that they start with the marshmallow,
+REF: is dat ze met de marshmallow beginnen.
+HYP: Z@@ e beg@@ inn@@ e@@ n me@@ t de mar@@ sh@@ m@@ allo@@ w@@ <unk>
+
+Sentence 36
+SRC: and they build prototypes, successive prototypes,
+REF: Ze bouwen prototypes, en nieuwe prototypes...
+HYP: Z@@ e bouw@@ den ze pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@ es@@ si@@ ve pro@@ to@@ ty@@ p@@
+
+Sentence 37
+SRC: always keeping the marshmallow on top, so they have multiple times to fix when they build prototypes along the way.
+REF: steeds met de marshmallow bovenop,  zodat ze meer kansen hebben om slechte prototypes te repareren.
+HYP: Z@@ e hou@@ den al@@ tij@@ d de mar@@ sh@@ m@@ allo@@ w op onder@@ wer@@ pen@@ , d@@ us me@@ er@@ der@@ e k@@ eer als ze pro@@ to@@ e@@ n ze pro@@ to@@ e@@ n ze pro@@ to@@ ty@@ p@@ es op de we@@ g@@ <unk>
+
+Sentence 38
+SRC: Designers recognize this type of collaboration as the essence of the iterative process.
+REF: Ontwerpers herkennen deze vorm van samenwerking  als de basis van een iteratief proces.
+HYP: D@@ es@@ ig@@ n@@ er@@ kenn@@ e@@ n d@@ it soor@@ t samen@@ werk@@ ing als de es@@ sen@@ tie van het it@@ er@@ e@@ n van het it@@ er@@ e@@ n van het it@@ er@@ e@@ n van het it@@ er@@ e@@ n van het uit@@ er@@ kenn@@ en@@ <unk>
+
+Sentence 39
+SRC: And with each version, kids get instant feedback about what works and what doesn't work.
+REF: Bij iedere versie krijgen de kinderen meteen feedback  over wat wel en wat niet werkt.
+HYP: En me@@ t elk ver@@ s@@ ie@@ , kin@@ der@@ e@@ n on@@ s in@@ stan@@ t on@@ s in@@ hou@@ d in wat werk@@ t e@@ n wat nie@@ t@@ <unk>
+
+Sentence 40
+SRC: So the capacity to play in prototype is really essential,
+REF: Dus het bouwen van prototypes is heel belangrijk.
+HYP: D@@ us de cap@@ ac@@ ite@@ it om in pro@@ to@@ ty@@ pe te spel@@ en@@ <unk>
+
+Sentence 41
+SRC: but let's look at how different teams perform.
+REF: Maar laten we kijken hoe verschillende teams het doen.
+HYP: M@@ aar lat@@ e@@ n we kijk@@ e@@ n hoe verschill@@ en@@ de te@@ am@@ s kijk@@ en@@ <unk>
+
+Sentence 42
+SRC: So the average for most people is around 20 inches;
+REF: Het gemiddelde voor de meeste mensen is ongeveer 50 cm...
+HYP: D@@ us de ge@@ mid@@ del@@ de mee@@ ste men@@ sen is ron@@ d 20 in@@ k@@ t@@ <unk>
+
+Sentence 43
+SRC: business schools students, about half of that; lawyers, a little better, but not much better than that,
+REF: economen halen daar de helft van,  advocaten doen het iets, maar niet veel beter.
+HYP: M@@ et de hel@@ f@@ t van de hel@@ f@@ t van de hel@@ f@@ t van de hel@@ f@@ t van de we@@ t@@ j@@ es@@ , m@@ aar nie@@ t ve@@ el be@@ ter dan dat@@ <unk>
+
+Sentence 44
+SRC: kindergarteners, better than most adults.
+REF: Kleuters, beter dan de meeste volwassenen.
+HYP: S@@ te@@ m@@ s@@ , be@@ ter dan de mee@@ ste vol@@ was@@ sen@@ en@@ <unk>
+
+Sentence 45
+SRC: Who does the very best?
+REF: Wie doet het het beste?
+HYP: W@@ ie doe@@ t het erg be@@ ste is@@ sen@@ ?
+
+Sentence 46
+SRC: Architects and engineers, thankfully.
+REF: Architecten en ingenieurs, gelukkig.
+HYP: A@@ r@@ ch@@ it@@ ec@@ ten e@@ n ing@@ en@@ ie@@ ur@@ s@@ , dan@@ k@@ b@@ aar@@ <unk>
+
+Sentence 47
+SRC: Thirty-nine inches is the tallest structure I've seen.
+REF: Het hoogste bouwwerk dat ik heb gezien was een meter hoog.
+HYP: D@@ er@@ ty@@ -@@ ne@@ gen in@@ ch@@ es is de t@@ st@@ ij@@ g@@ ing di@@ e ik ge@@ zi@@ en@@ <unk>
+
+Sentence 48
+SRC: And why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures.
+REF: En waarom? Omdat zij driehoeken begrijpen,  en zelfversterkende meetkundige structuren  zijn de sleutel tot het bouwen van  stabiele bouwwerken.
+HYP: En waaro@@ m is het@@ ? O@@ m@@ dat ze de st@@ am@@ men e@@ n zelf@@ -@@ re@@ in@@ for@@ mat@@ ie krij@@ gen de sle@@ u@@ tel zijn de sle@@ u@@ tel om st@@ ab@@ i@@ ele struc@@ tur@@ e@@ n te bouw@@ en@@ <unk>
+
+Sentence 49
+SRC: So CEOs, a little bit better than average,
+REF: CEO's, iets beter dan gemiddeld.
+HYP: D@@ us C@@ E@@ O@@ '@@ s@@ , een beet@@ je be@@ ter dan ge@@ mid@@ del@@ d@@ <unk>
+
+Sentence 50
+SRC: but here's where it gets interesting. If you put you put an executive admin. on the team, they get significantly better.
+REF: Maar nu wordt het interessant:  als je een secretaresse bij het team zet  worden ze stukken beter.
+HYP: M@@ aar hier is waar het interess@@ an@@ t word@@ t@@ <unk> Al@@ s je een uit@@ vo@@ er@@ t op de te@@ am ge@@ maak@@ t van de te@@ am@@ , krij@@ gen ze be@@ ter@@ <unk>

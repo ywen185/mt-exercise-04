@@ -1,0 +1,71 @@
+2026-05-24 11:14:38,268 - INFO - root - Hello! This is Joey-NMT (version 2.2.0).
+2026-05-24 11:14:38,268 - INFO - joeynmt.data - Building tokenizer...
+2026-05-24 11:14:38,269 - INFO - joeynmt.tokenizers - en tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:14:38,269 - INFO - joeynmt.tokenizers - nl tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:14:38,269 - INFO - joeynmt.data - Building vocabulary...
+2026-05-24 11:17:37,955 - INFO - root - Hello! This is Joey-NMT (version 2.2.0).
+2026-05-24 11:17:37,956 - INFO - joeynmt.data - Building tokenizer...
+2026-05-24 11:17:37,965 - INFO - joeynmt.tokenizers - en tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:17:37,965 - INFO - joeynmt.tokenizers - nl tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:17:37,965 - INFO - joeynmt.data - Building vocabulary...
+2026-05-24 11:17:38,017 - INFO - joeynmt.data - Loading dev set...
+2026-05-24 11:17:38,021 - INFO - joeynmt.data - Loading test set...
+2026-05-24 11:17:38,026 - INFO - joeynmt.data - Data loaded.
+2026-05-24 11:17:38,026 - INFO - joeynmt.data - Train dataset: None
+2026-05-24 11:17:38,026 - INFO - joeynmt.data - Valid dataset: PlaintextDataset(split=dev, len=1003, src_lang=en, trg_lang=nl, has_trg=True, random_subset=-1)
+2026-05-24 11:17:38,026 - INFO - joeynmt.data -  Test dataset: PlaintextDataset(split=test, len=1777, src_lang=en, trg_lang=nl, has_trg=True, random_subset=-1)
+2026-05-24 11:17:38,026 - INFO - joeynmt.data - First 10 Src tokens: (0) <unk> (1) <pad> (2) <s> (3) </s> (4) the (5) to (6) of (7) a (8) and (9) that
+2026-05-24 11:17:38,026 - INFO - joeynmt.data - First 10 Trg tokens: (0) <unk> (1) <pad> (2) <s> (3) </s> (4) de (5) een (6) het (7) van (8) en (9) dat
+2026-05-24 11:17:38,028 - INFO - joeynmt.data - Number of unique Src tokens (vocab_size): 2004
+2026-05-24 11:17:38,028 - INFO - joeynmt.data - Number of unique Trg tokens (vocab_size): 2004
+2026-05-24 11:17:38,029 - INFO - joeynmt.model - Building an encoder-decoder model...
+2026-05-24 11:17:38,088 - INFO - joeynmt.model - Enc-dec model built.
+2026-05-24 11:17:38,137 - INFO - joeynmt.helpers - Load model from C:\Users\Wen Yang\Desktop\mtex04\mt-exercise-04\output_word\14000.ckpt.
+2026-05-24 11:17:38,144 - INFO - joeynmt.prediction - Model(
+	encoder=TransformerEncoder(num_layers=4, num_heads=2, alpha=1.0, layer_norm="pre", activation=ReLU()),
+	decoder=TransformerDecoder(num_layers=1, num_heads=2, alpha=1.0, layer_norm="post", activation=ReLU()),
+	src_embed=Embeddings(embedding_dim=256, vocab_size=2004),
+	trg_embed=Embeddings(embedding_dim=256, vocab_size=2004),
+	loss_function=None)
+2026-05-24 11:17:38,146 - INFO - joeynmt.prediction - Decoding on dev set...
+2026-05-24 11:17:38,146 - INFO - joeynmt.prediction - Predicting 1003 example(s)... (Greedy decoding with min_output_length=1, max_output_length=100, return_prob='none', generate_unk=True, repetition_penalty=-1, no_repeat_ngram_size=-1)
+2026-05-24 11:18:20,869 - INFO - joeynmt.metrics - nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0
+2026-05-24 11:18:20,869 - INFO - joeynmt.prediction - Evaluation result (greedy) bleu:   5.34, generation: 42.4954[sec], evaluation: 0.2199[sec]
+2026-05-24 11:18:20,869 - INFO - joeynmt.prediction - Decoding on test set...
+2026-05-24 11:18:20,869 - INFO - joeynmt.prediction - Predicting 1777 example(s)... (Greedy decoding with min_output_length=1, max_output_length=100, return_prob='none', generate_unk=True, repetition_penalty=-1, no_repeat_ngram_size=-1)
+2026-05-24 11:19:07,339 - INFO - joeynmt.metrics - nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0
+2026-05-24 11:19:07,339 - INFO - joeynmt.prediction - Evaluation result (greedy) bleu:   8.93, generation: 46.1958[sec], evaluation: 0.2608[sec]
+2026-05-25 14:06:57,978 - INFO - root - Hello! This is Joey-NMT (version 2.2.0).
+2026-05-25 14:06:57,989 - INFO - joeynmt.data - Building tokenizer...
+2026-05-25 14:06:57,990 - INFO - joeynmt.tokenizers - en tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-25 14:06:57,990 - INFO - joeynmt.tokenizers - nl tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-25 14:06:57,990 - INFO - joeynmt.data - Building vocabulary...
+2026-05-25 14:06:58,027 - INFO - joeynmt.data - Loading dev set...
+2026-05-25 14:06:58,031 - INFO - joeynmt.data - Loading test set...
+2026-05-25 14:06:58,034 - INFO - joeynmt.data - Data loaded.
+2026-05-25 14:06:58,034 - INFO - joeynmt.data - Train dataset: None
+2026-05-25 14:06:58,034 - INFO - joeynmt.data - Valid dataset: PlaintextDataset(split=dev, len=1003, src_lang=en, trg_lang=nl, has_trg=True, random_subset=-1)
+2026-05-25 14:06:58,035 - INFO - joeynmt.data -  Test dataset: PlaintextDataset(split=test, len=1777, src_lang=en, trg_lang=nl, has_trg=True, random_subset=-1)
+2026-05-25 14:06:58,035 - INFO - joeynmt.data - First 10 Src tokens: (0) <unk> (1) <pad> (2) <s> (3) </s> (4) the (5) to (6) of (7) a (8) and (9) that
+2026-05-25 14:06:58,035 - INFO - joeynmt.data - First 10 Trg tokens: (0) <unk> (1) <pad> (2) <s> (3) </s> (4) de (5) een (6) het (7) van (8) en (9) dat
+2026-05-25 14:06:58,035 - INFO - joeynmt.data - Number of unique Src tokens (vocab_size): 2004
+2026-05-25 14:06:58,035 - INFO - joeynmt.data - Number of unique Trg tokens (vocab_size): 2004
+2026-05-25 14:06:58,035 - INFO - joeynmt.model - Building an encoder-decoder model...
+2026-05-25 14:06:58,074 - INFO - joeynmt.model - Enc-dec model built.
+2026-05-25 14:06:58,130 - INFO - joeynmt.helpers - Load model from C:\Users\Wen Yang\Desktop\mtex04\mt-exercise-04\output_word\14000.ckpt.
+2026-05-25 14:06:58,134 - INFO - joeynmt.prediction - Model(
+	encoder=TransformerEncoder(num_layers=4, num_heads=2, alpha=1.0, layer_norm="pre", activation=ReLU()),
+	decoder=TransformerDecoder(num_layers=1, num_heads=2, alpha=1.0, layer_norm="post", activation=ReLU()),
+	src_embed=Embeddings(embedding_dim=256, vocab_size=2004),
+	trg_embed=Embeddings(embedding_dim=256, vocab_size=2004),
+	loss_function=None)
+2026-05-25 14:06:58,136 - INFO - joeynmt.prediction - Decoding on dev set...
+2026-05-25 14:06:58,136 - INFO - joeynmt.prediction - Predicting 1003 example(s)... (Greedy decoding with min_output_length=1, max_output_length=100, return_prob='none', generate_unk=True, repetition_penalty=-1, no_repeat_ngram_size=-1)
+2026-05-25 14:07:27,161 - INFO - joeynmt.metrics - nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0
+2026-05-25 14:07:27,162 - INFO - joeynmt.prediction - Evaluation result (greedy) bleu:   5.34, generation: 28.8734[sec], evaluation: 0.1480[sec]
+2026-05-25 14:07:27,163 - INFO - joeynmt.prediction - Translations saved to: output_bpe5000\word_beam1.hyps.dev.
+2026-05-25 14:07:27,163 - INFO - joeynmt.prediction - Decoding on test set...
+2026-05-25 14:07:27,163 - INFO - joeynmt.prediction - Predicting 1777 example(s)... (Greedy decoding with min_output_length=1, max_output_length=100, return_prob='none', generate_unk=True, repetition_penalty=-1, no_repeat_ngram_size=-1)
+2026-05-25 14:08:02,576 - INFO - joeynmt.metrics - nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.6.0
+2026-05-25 14:08:02,577 - INFO - joeynmt.prediction - Evaluation result (greedy) bleu:   8.93, generation: 35.2194[sec], evaluation: 0.1837[sec]
+2026-05-25 14:08:02,578 - INFO - joeynmt.prediction - Translations saved to: output_bpe5000\word_beam1.hyps.test.

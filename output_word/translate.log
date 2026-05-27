@@ -1,0 +1,8 @@
+2026-05-24 11:11:38,807 - INFO - root - Hello! This is Joey-NMT (version 2.2.0).
+2026-05-24 11:11:38,862 - INFO - joeynmt.model - Building an encoder-decoder model...
+2026-05-24 11:11:38,906 - INFO - joeynmt.model - Enc-dec model built.
+2026-05-24 11:11:38,977 - INFO - joeynmt.helpers - Load model from C:\Users\Wen Yang\Desktop\mtex04\mt-exercise-04\output_word\14000.ckpt.
+2026-05-24 11:11:38,982 - INFO - joeynmt.tokenizers - en tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:11:38,983 - INFO - joeynmt.tokenizers - nl tokenizer: BasicTokenizer(level=word, lowercase=False, normalize=False, filter_by_length=(-1, -1), pretokenizer=none)
+2026-05-24 11:11:38,988 - INFO - joeynmt.prediction - Predicting 1777 example(s)... (Greedy decoding with min_output_length=1, max_output_length=100, return_prob='none', generate_unk=True, repetition_penalty=-1, no_repeat_ngram_size=-1)
+2026-05-24 11:12:23,586 - INFO - joeynmt.prediction - Generation took 44.5841[sec]. (No references given)
