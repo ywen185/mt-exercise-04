@@ -116,7 +116,7 @@ test.nl
 To reduce training time, I randomly sampled 100k parallel sentence pairs from the training set. This step was organized into the script `sample_train.py`. It can be run as follows:
 
 ```powershell
-python sample_train.py --sample-size 100000
+python sample_train.py --sample_size 100000
 ```
 
 The script uses the same randomly selected line indices to sample sentences from `train.en` and `train.nl`, ensuring that the parallel sentence pairs remain aligned. The sampled files are saved as:
@@ -431,7 +431,7 @@ train_new.nl
 Run the script as follows:
 
 ```powershell
-python sample_train.py --sample-size 100000
+python sample_train.py --sample_size 100000
 ```
 
 ## 1.6.2 BPE Preprocessing Script
