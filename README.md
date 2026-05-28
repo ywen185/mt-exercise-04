@@ -130,10 +130,10 @@ train_new.nl
 
 Before running BPE preprocessing, I first ran `sample_train.py` to generate `train_new.en` and `train_new.nl`.
 
-For easier reproduction, all BPE preprocessing steps were organized into the script `preprocess_bpe_with_filter.py`. To generate the BPE-related files, the script can be run directly from the project root directory:
+For easier reproduction, all BPE preprocessing steps were organized into the script `preprocess_bpe.py`. To generate the BPE-related files, the script can be run directly from the project root directory:
 
 ```powershell
-python preprocess_bpe_with_filter.py
+python preprocess_bpe.py
 ```
 
 This script automatically performs the following steps:
@@ -439,7 +439,7 @@ python sample_train.py --sample-size 100000
 The BPE preprocessing script is:
 
 ```text
-preprocess_bpe_with_filter.py
+preprocess_bpe.py
 ```
 
 This script is used to generate all BPE-related files. It is equivalent to the manual BPE preprocessing commands listed in Section 1.2. It performs the following steps:
@@ -453,7 +453,7 @@ This script is used to generate all BPE-related files. It is equivalent to the m
 Run the script as follows:
 
 ```powershell
-python preprocess_bpe_with_filter.py
+python preprocess_bpe.py
 ```
 
 ## 1.6.3 BLEU Evaluation Script
